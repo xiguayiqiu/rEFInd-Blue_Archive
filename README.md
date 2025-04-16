@@ -10,10 +10,16 @@
 
 3.将`refind.conf`复制到你自己命名的refind文件夹里
 
-![rEFInd-Blue_Archive](README\rEFInd-Blue_Archive.jpg)
+
 
 安装图
 
-![1](README\1.png)
+![rEFInd-Blue_Archive](README/rEFInd-Blue_Archive.jpg)
 
-![2](README\2.png)
+
+
+![1](README/1.png)
+
+
+
+![2](README/2.png)
