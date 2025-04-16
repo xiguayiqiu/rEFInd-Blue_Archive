@@ -10,12 +10,10 @@
 
 3.将`refind.conf`复制到你自己命名的refind文件夹里
 
-![rEFInd-Blue_Archive](C:\Users\wwwrn\Downloads\rEFInd-Blue_Archive.jpg)
+![rEFInd-Blue_Archive](README\rEFInd-Blue_Archive.jpg)
 
 安装图
 
-![image-20250416104243167](C:\Users\wwwrn\AppData\Roaming\Typora\typora-user-images\image-20250416104243167.png)
+![1](README\1.png)
 
-
-
-![image-20250416104313718](C:\Users\wwwrn\AppData\Roaming\Typora\typora-user-images\image-20250416104313718.png)
+![2](README\2.png)
